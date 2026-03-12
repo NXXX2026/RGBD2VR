@@ -8,13 +8,11 @@ The system captures RGB and depth images from an Orbbec RGB-D camera and process
 
 This project demonstrates how RGB-D sensing and computer vision can be combined with VR rendering to create immersive 3D experiences.
 
-![Demo Video](Doc_Img/RGBD.gif)
+![Demo Video](Doc_Img/RGBD.gif).
+Fig.1 RGB and Depth Image Pair.
 
-Fig.1 RGB and Depth Image Pair
-
-![Demo Video](Doc_Img/SBS_V9.gif)
-
-FIg.2 Side-by-Side VR image
+![Demo Video](Doc_Img/SBS_V9.gif).
+FIg.2 Side-by-Side VR image.
 ---
 
 # Introduction

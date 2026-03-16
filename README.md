@@ -15,6 +15,10 @@ Fig.1 RGB and Depth Input Image Pair.
 ![Demo Video](Doc_Img/SBS_V9.gif)  
 Fig.2 Generated SBS Stereo Image.
 - Full video can be download at:https://www.youtube.com/watch?v=kSHhuJfGo9U
+
+![Demo Video](Doc_Img/IPD55_60_65_70_75.gif)  
+Fig.3 SBS Stereo Image Frame Generated under different IPD setting：IPD=55mm,60mm,65mm,70mm,75mm.
+
 ---
 
 # Introduction

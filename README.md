@@ -10,10 +10,11 @@ This project demonstrates how RGB-D sensing and computer vision can be combined 
 
 ![Demo Video](Doc_Img/RGBD.gif)  
 Fig.1 RGB and Depth Input Image Pair.
+Full video can be download at:https://www.youtube.com/watch?v=OR_osRkdaBU
 
 ![Demo Video](Doc_Img/SBS_V9.gif)  
 FIg.2 Side-by-Side Output Stereo image.
-
+Full video can be download at:https://www.youtube.com/watch?v=kSHhuJfGo9U
 ---
 
 # Introduction

@@ -242,9 +242,8 @@ Add-WindowsCapability -Online -Name Tools.Graphics.DirectX~~~~0.0.1.0
 
 ### Runtime Requirement (OpenCV 4.6)
 
-If you encounter the following error when running the application:
+If you encounter the following error when running the application:  
 opencv_*.dll was not found
-
 
 This application depends on OpenCV 4.6 runtime libraries.
 

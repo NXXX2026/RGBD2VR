@@ -230,6 +230,17 @@ Open the Oculus Desktop App and confirm the headset appears under **Devices**.
 
 ---
 
+### sdk_gpu Error
+
+Install DirectX Tools
+
+Run the following command in PowerShell (Admin):
+
+```powershell
+Add-WindowsCapability -Online -Name Tools.Graphics.DirectX~~~~0.0.1.0
+```
+---
+
 ### No video in VR
 
 Make sure:
